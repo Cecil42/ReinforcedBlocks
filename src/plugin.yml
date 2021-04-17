@@ -1,0 +1,5 @@
+name: ReinforcedBlocks
+version: 1.0-SNAPSHOT
+main: reinforcedblocks.reinforcedblocks.ReinforcedBlocks
+api-version: 1.16
+description: Simple, lightweight reinforced blocks plugin
